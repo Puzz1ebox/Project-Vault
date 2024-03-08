@@ -1,4 +1,4 @@
-# Assignments
+# Overview
 
 A collection of assignments (Penn State Erie, The Behrend College) and personal projects.  
 Penn State assignments have been written in C++. For academic purposes only.  
