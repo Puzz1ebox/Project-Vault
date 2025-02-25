@@ -1,7 +1,6 @@
 # Overview
 
-A collection of academic assignments and personal projects.  
-Penn State assignments have been written in C++. 
+A collection of personal projects.  
 
 Please feel free to steal my card designs if you find them to your liking.  
 My template is also available to be used at your leisure that will allow you to create your own cards, assuming you know photoshop/GIMP.  
